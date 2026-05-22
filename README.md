@@ -3,11 +3,11 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3.9+-blue">
   <img src="https://img.shields.io/badge/Whisper-Speech--to--Text-red">
-  <img src="https://img.shields.io/badge/DistilBERT-NLP-yellow">
-  <img src="https://img.shields.io/badge/Logistic_Regression-Classifier-green">
+  <img src="https://img.shields.io/badge/DistilBERT-NLP-green">
+  <img src="https://img.shields.io/badge/Logistic_Regression-Classifier-yellow">
   <img src="https://img.shields.io/badge/PyTorch-DeepLearning-blue">
   <img src="https://img.shields.io/badge/Scam_Detection-RealTime-red">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
+  <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
 > ### NLP Project — VIT Chennai, November 2025  
