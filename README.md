@@ -48,3 +48,12 @@ Audio File → Audio Chunking (3s window, 50% overlap)
            → Logistic Regression (Scam Classification)
            → Scam Probability & Real-Time Alert
            → Detection Summary + Email Notification
+```
+
+The system runs on a multithreaded architecture with three parallel threads:
+
+- **Audio Streaming Thread** — Feeds overlapping audio chunks into a queue at timed intervals
+- **Transcription Thread** — Converts audio chunks into text using Whisper
+- **Classification Thread** — Generates DistilBERT embeddings and classifies scam probability using Logistic Regression
+
+The architecture enables near real-time processing with low latency, making the system suitable for intelligent fraud monitoring and voice-based cybersecurity applications.
