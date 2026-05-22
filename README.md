@@ -161,7 +161,7 @@ python realtime_scam_detector.py \
   --alert_threshold 0.6
 ```
 
-## Key Arguments
+### Key Arguments
 
 | Argument | Default | Description |
 |---|---|---|
