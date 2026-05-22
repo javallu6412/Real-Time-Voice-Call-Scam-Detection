@@ -58,9 +58,13 @@ The system runs on a multithreaded architecture with three parallel threads:
 
 The architecture enables near real-time processing with low latency, making the system suitable for intelligent fraud monitoring and voice-based cybersecurity applications.
 
+---
+
 ## Architecture
 
 ![Real-Time Scam Detection Architecture](assets/architecture.png)
+
+---
 
 ## Models Used
 
@@ -85,6 +89,9 @@ A context window of **3 consecutive chunks** is concatenated before embedding to
 | Natural Language Processing | DistilBERT (Hugging Face Transformers) |
 | Machine Learning | Logistic Regression (Scikit-learn) |
 | Deep Learning Framework | PyTorch |
+| Development Environment | VS Code |
+
+---
 
 ## Features
 
@@ -96,6 +103,8 @@ A context window of **3 consecutive chunks** is concatenated before embedding to
 -  Supports `.wav`, `.mp3`, and `.flac` audio formats
 -  Multithreaded pipeline for low-latency processing
 -  Real-time scam probability monitoring and alert generation
+
+---
 
 ## Results
 
@@ -134,6 +143,8 @@ The system successfully identified scam-related conversational patterns with nea
   <img src="assets/email_alert.png" width="900"/>
 </p>
 
+---
+
 ## Usage
 
 ```bash
@@ -143,6 +154,8 @@ python realtime_scam_detector.py \
   --whisper_size tiny \
   --alert_threshold 0.6
 ```
+
+---
 
 ### Key Arguments
 
