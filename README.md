@@ -113,11 +113,11 @@ Automated email alerts containing the detection summary, timestamps, and confide
 ## Output Screenshots
 
 <p align="center">
-  <img src="assets/ss1.png" width="900"/>
+  <img src="assets/output1.png" width="900"/>
 </p>
 
 <p align="center">
-  <img src="assets/ss2.png" width="900"/>
+  <img src="assets/output2.png" width="900"/>
 </p>
 
 ---
@@ -125,5 +125,5 @@ Automated email alerts containing the detection summary, timestamps, and confide
 ## Email Alert
 
 <p align="center">
-  <img src="assets/ss3.png" width="900"/>
+  <img src="assets/email_alert.png" width="900"/>
 </p>
