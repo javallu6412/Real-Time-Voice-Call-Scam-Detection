@@ -1,0 +1,605 @@
+[
+  {
+    "timestamp": 0.0,
+    "chunk_id": 0,
+    "text": "Hello. Hello.",
+    "context": "Hello. Hello.",
+    "scam_probability": 0.004128795577019723,
+    "classification_time": 0.01585531234741211,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 1.5,
+    "chunk_id": 1,
+    "text": "Hello, hydrogen is there?",
+    "context": "Hello. Hello. Hello, hydrogen is there?",
+    "scam_probability": 0.009027523768454445,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 3.0,
+    "chunk_id": 2,
+    "text": "Hi, this is Ria calling from Amazon.",
+    "context": "Hello. Hello. Hello, hydrogen is there? Hi, this is Ria calling from Amazon.",
+    "scam_probability": 0.44322794114873443,
+    "classification_time": 0.015923261642456055,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 4.5,
+    "chunk_id": 3,
+    "text": "calling from Amazon building the apartment am I speaking with",
+    "context": "Hello, hydrogen is there? Hi, this is Ria calling from Amazon. calling from Amazon building the apartment am I speaking with",
+    "scam_probability": 0.46275390565180413,
+    "classification_time": 0.01257634162902832,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 6.0,
+    "chunk_id": 4,
+    "text": "the apartment am I speaking with beta?",
+    "context": "Hi, this is Ria calling from Amazon. calling from Amazon building the apartment am I speaking with the apartment am I speaking with beta?",
+    "scam_probability": 0.6430951659259609,
+    "classification_time": 0.017902851104736328,
+    "is_scam_alert": "True"
+  },
+  {
+    "timestamp": 7.5,
+    "chunk_id": 5,
+    "text": "right up. Oh yes.",
+    "context": "calling from Amazon building the apartment am I speaking with the apartment am I speaking with beta? right up. Oh yes.",
+    "scam_probability": 0.2793208987851212,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 9.0,
+    "chunk_id": 6,
+    "text": "Oh yes, could this?",
+    "context": "the apartment am I speaking with beta? right up. Oh yes. Oh yes, could this?",
+    "scam_probability": 0.01516963878257145,
+    "classification_time": 0.015636205673217773,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 10.5,
+    "chunk_id": 7,
+    "text": "of course this. I'm reaching out.",
+    "context": "right up. Oh yes. Oh yes, could this? of course this. I'm reaching out.",
+    "scam_probability": 0.0011832955637321174,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 12.0,
+    "chunk_id": 8,
+    "text": "I am reaching out because we found an accidental.",
+    "context": "Oh yes, could this? of course this. I'm reaching out. I am reaching out because we found an accidental.",
+    "scam_probability": 0.0005090174139834849,
+    "classification_time": 0.01391458511352539,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 13.5,
+    "chunk_id": 9,
+    "text": "because we found an accident will over charge on the last payment.",
+    "context": "of course this. I'm reaching out. I am reaching out because we found an accidental. because we found an accident will over charge on the last payment.",
+    "scam_probability": 0.0034190527147966994,
+    "classification_time": 0.007176637649536133,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 15.0,
+    "chunk_id": 10,
+    "text": "the last payment to Amazon. So, we are issuing it.",
+    "context": "I am reaching out because we found an accidental. because we found an accident will over charge on the last payment. the last payment to Amazon. So, we are issuing it.",
+    "scam_probability": 0.02563075617786708,
+    "classification_time": 0.018323659896850586,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 16.5,
+    "chunk_id": 11,
+    "text": "So, we are issuing a refund of 5000 rupees.",
+    "context": "because we found an accident will over charge on the last payment. the last payment to Amazon. So, we are issuing it. So, we are issuing a refund of 5000 rupees.",
+    "scam_probability": 0.07471835604215557,
+    "classification_time": 0.007226705551147461,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 18.0,
+    "chunk_id": 12,
+    "text": "in front of 5000 p.a. account. I just need to",
+    "context": "the last payment to Amazon. So, we are issuing it. So, we are issuing a refund of 5000 rupees. in front of 5000 p.a. account. I just need to",
+    "scam_probability": 0.02621642307171356,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 19.5,
+    "chunk_id": 13,
+    "text": "I just need to ask as a verify your details.",
+    "context": "So, we are issuing a refund of 5000 rupees. in front of 5000 p.a. account. I just need to I just need to ask as a verify your details.",
+    "scam_probability": 0.055716051113496486,
+    "classification_time": 0.0196990966796875,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 21.0,
+    "chunk_id": 14,
+    "text": "as a verify your details for process with.",
+    "context": "in front of 5000 p.a. account. I just need to I just need to ask as a verify your details. as a verify your details for process with.",
+    "scam_probability": 0.05480219021000622,
+    "classification_time": 0.005097866058349609,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 22.5,
+    "chunk_id": 15,
+    "text": "process with a refund.",
+    "context": "I just need to ask as a verify your details. as a verify your details for process with. process with a refund.",
+    "scam_probability": 0.021924209423962088,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 24.0,
+    "chunk_id": 16,
+    "text": "Sorry, Fund. I don't remember any issues.",
+    "context": "as a verify your details for process with. process with a refund. Sorry, Fund. I don't remember any issues.",
+    "scam_probability": 0.02819552816651704,
+    "classification_time": 0.005472660064697266,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 25.5,
+    "chunk_id": 17,
+    "text": "I don't remember any extra charges. Yes, I...",
+    "context": "process with a refund. Sorry, Fund. I don't remember any issues. I don't remember any extra charges. Yes, I...",
+    "scam_probability": 0.00811819908577242,
+    "classification_time": 0.022080659866333008,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 28.5,
+    "chunk_id": 19,
+    "text": "completely under the sun, the source of building system error.",
+    "context": "Sorry, Fund. I don't remember any issues. I don't remember any extra charges. Yes, I... completely under the sun, the source of building system error.",
+    "scam_probability": 0.004453631881306419,
+    "classification_time": 0.015706539154052734,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 30.0,
+    "chunk_id": 20,
+    "text": "of building system error and we are referring all the sector.",
+    "context": "I don't remember any extra charges. Yes, I... completely under the sun, the source of building system error. of building system error and we are referring all the sector.",
+    "scam_probability": 0.0005975006090437444,
+    "classification_time": 0.0060122013092041016,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 31.5,
+    "chunk_id": 21,
+    "text": "and we are reforming all the sector customers. The amount will be fair.",
+    "context": "completely under the sun, the source of building system error. of building system error and we are referring all the sector. and we are reforming all the sector customers. The amount will be fair.",
+    "scam_probability": 0.0018265676017201935,
+    "classification_time": 0.016448020935058594,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 33.0,
+    "chunk_id": 22,
+    "text": "last month. The amount will be traded within 5-5-10 minutes.",
+    "context": "of building system error and we are referring all the sector. and we are reforming all the sector customers. The amount will be fair. last month. The amount will be traded within 5-5-10 minutes.",
+    "scam_probability": 0.05507210395381314,
+    "classification_time": 0.008032560348510742,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 34.5,
+    "chunk_id": 23,
+    "text": "written within 5-5-10 minutes after verification.",
+    "context": "and we are reforming all the sector customers. The amount will be fair. last month. The amount will be traded within 5-5-10 minutes. written within 5-5-10 minutes after verification.",
+    "scam_probability": 0.08771886634988127,
+    "classification_time": 0.019029855728149414,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 36.0,
+    "chunk_id": 24,
+    "text": "after verification. Could you confirm your",
+    "context": "last month. The amount will be traded within 5-5-10 minutes. written within 5-5-10 minutes after verification. after verification. Could you confirm your",
+    "scam_probability": 0.7093212496241742,
+    "classification_time": 0.0,
+    "is_scam_alert": "True"
+  },
+  {
+    "timestamp": 37.5,
+    "chunk_id": 25,
+    "text": "Could you confirm your bank account? So we get...",
+    "context": "written within 5-5-10 minutes after verification. after verification. Could you confirm your Could you confirm your bank account? So we get...",
+    "scam_probability": 0.3756141159463363,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 39.0,
+    "chunk_id": 26,
+    "text": "bank account so we can deposit the refund.",
+    "context": "after verification. Could you confirm your Could you confirm your bank account? So we get... bank account so we can deposit the refund.",
+    "scam_probability": 0.12348342587426925,
+    "classification_time": 0.017750024795532227,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 40.5,
+    "chunk_id": 27,
+    "text": "the process of the refund.",
+    "context": "Could you confirm your bank account? So we get... bank account so we can deposit the refund. the process of the refund.",
+    "scam_probability": 0.10249364390860155,
+    "classification_time": 0.00877690315246582,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 42.0,
+    "chunk_id": 28,
+    "text": "Okay.",
+    "context": "bank account so we can deposit the refund. the process of the refund. Okay.",
+    "scam_probability": 0.060799746376206325,
+    "classification_time": 0.02135920524597168,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 43.5,
+    "chunk_id": 29,
+    "text": "Okay, I use",
+    "context": "the process of the refund. Okay. Okay, I use",
+    "scam_probability": 0.0015895342760148762,
+    "classification_time": 0.012926101684570312,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 45.0,
+    "chunk_id": 30,
+    "text": "I use",
+    "context": "Okay. Okay, I use I use",
+    "scam_probability": 7.078709463498584e-05,
+    "classification_time": 0.006215095520019531,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 46.5,
+    "chunk_id": 31,
+    "text": "Thank you.",
+    "context": "Okay, I use I use Thank you.",
+    "scam_probability": 0.0016488009420950857,
+    "classification_time": 0.02269268035888672,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 48.0,
+    "chunk_id": 32,
+    "text": "listener nuances the",
+    "context": "I use Thank you. listener nuances the",
+    "scam_probability": 0.004017295352894612,
+    "classification_time": 0.020105361938476562,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 49.5,
+    "chunk_id": 33,
+    "text": "Also, now I system as a strength of confirmation.",
+    "context": "Thank you. listener nuances the Also, now I system as a strength of confirmation.",
+    "scam_probability": 0.013926190220259895,
+    "classification_time": 0.019817352294921875,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 51.0,
+    "chunk_id": 34,
+    "text": "is sent for confirmation code, they are registered.",
+    "context": "listener nuances the Also, now I system as a strength of confirmation. is sent for confirmation code, they are registered.",
+    "scam_probability": 0.14308481816913368,
+    "classification_time": 0.017778635025024414,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 52.5,
+    "chunk_id": 35,
+    "text": "reports, and thank you for taking the\u00e8res into account.",
+    "context": "Also, now I system as a strength of confirmation. is sent for confirmation code, they are registered. reports, and thank you for taking the\u00e8res into account.",
+    "scam_probability": 0.045348667676214004,
+    "classification_time": 0.010145187377929688,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 54.0,
+    "chunk_id": 36,
+    "text": "This is part of a security process to ensure that Ethan goes to the right.",
+    "context": "is sent for confirmation code, they are registered. reports, and thank you for taking the\u00e8res into account. This is part of a security process to ensure that Ethan goes to the right.",
+    "scam_probability": 0.015873728025166258,
+    "classification_time": 0.0066890716552734375,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 55.5,
+    "chunk_id": 37,
+    "text": "the strength of the deep and goes to the right person. Please read out.",
+    "context": "reports, and thank you for taking the\u00e8res into account. This is part of a security process to ensure that Ethan goes to the right. the strength of the deep and goes to the right person. Please read out.",
+    "scam_probability": 0.01330167736981891,
+    "classification_time": 0.0020046234130859375,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 57.0,
+    "chunk_id": 38,
+    "text": "person. Please read out the code so we can complete the challenge.",
+    "context": "This is part of a security process to ensure that Ethan goes to the right. the strength of the deep and goes to the right person. Please read out. person. Please read out the code so we can complete the challenge.",
+    "scam_probability": 0.04629822656985743,
+    "classification_time": 0.008842229843139648,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 58.5,
+    "chunk_id": 39,
+    "text": "code so we can complete the transaction.",
+    "context": "the strength of the deep and goes to the right person. Please read out. person. Please read out the code so we can complete the challenge. code so we can complete the transaction.",
+    "scam_probability": 0.2881163951970989,
+    "classification_time": 0.0077512264251708984,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 60.0,
+    "chunk_id": 40,
+    "text": "action. I just got them.",
+    "context": "person. Please read out the code so we can complete the challenge. code so we can complete the transaction. action. I just got them.",
+    "scam_probability": 0.06358915029563504,
+    "classification_time": 0.008556365966796875,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 61.5,
+    "chunk_id": 41,
+    "text": "I just got them message, it says.",
+    "context": "code so we can complete the transaction. action. I just got them. I just got them message, it says.",
+    "scam_probability": 0.0330389502258222,
+    "classification_time": 0.015531778335571289,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 63.0,
+    "chunk_id": 42,
+    "text": "at MarketLashways.",
+    "context": "action. I just got them. I just got them message, it says. at MarketLashways.",
+    "scam_probability": 0.02236265097485882,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 64.5,
+    "chunk_id": 43,
+    "text": "for DPS for Transaction. Thanks.",
+    "context": "I just got them message, it says. at MarketLashways. for DPS for Transaction. Thanks.",
+    "scam_probability": 0.2052195915476619,
+    "classification_time": 0.006365776062011719,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 66.0,
+    "chunk_id": 44,
+    "text": "you.",
+    "context": "at MarketLashways. for DPS for Transaction. Thanks. you.",
+    "scam_probability": 0.11191277474763241,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 67.5,
+    "chunk_id": 45,
+    "text": "Why does it see the transaction?",
+    "context": "for DPS for Transaction. Thanks. you. Why does it see the transaction?",
+    "scam_probability": 0.06541549365888831,
+    "classification_time": 0.008190631866455078,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 69.0,
+    "chunk_id": 46,
+    "text": "So that's just how it's system-locked.",
+    "context": "you. Why does it see the transaction? So that's just how it's system-locked.",
+    "scam_probability": 0.0047808062121770445,
+    "classification_time": 0.0,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 70.5,
+    "chunk_id": 47,
+    "text": "Oh, that's just how it system logs it. It's still a refund for us.",
+    "context": "Why does it see the transaction? So that's just how it's system-locked. Oh, that's just how it system logs it. It's still a refund for us.",
+    "scam_probability": 0.008241852907216594,
+    "classification_time": 0.00801229476928711,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 72.0,
+    "chunk_id": 48,
+    "text": "it is still a refund process. No money is there.",
+    "context": "So that's just how it's system-locked. Oh, that's just how it system logs it. It's still a refund for us. it is still a refund process. No money is there.",
+    "scam_probability": 0.00715761837861995,
+    "classification_time": 0.019939422607421875,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 73.5,
+    "chunk_id": 49,
+    "text": "There are so many things that I could somehow get out of the car.",
+    "context": "Oh, that's just how it system logs it. It's still a refund for us. it is still a refund process. No money is there. There are so many things that I could somehow get out of the car.",
+    "scam_probability": 0.0017824255930283853,
+    "classification_time": 0.007203340530395508,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 75.0,
+    "chunk_id": 50,
+    "text": "I could show you the account we just needed to answer.",
+    "context": "it is still a refund process. No money is there. There are so many things that I could somehow get out of the car. I could show you the account we just needed to answer.",
+    "scam_probability": 0.022860090810262638,
+    "classification_time": 0.007446765899658203,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 76.5,
+    "chunk_id": 51,
+    "text": "we just need it to authorize the reverse one. Please provide the",
+    "context": "There are so many things that I could somehow get out of the car. I could show you the account we just needed to answer. we just need it to authorize the reverse one. Please provide the",
+    "scam_probability": 0.049382462316954465,
+    "classification_time": 0.01001286506652832,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 78.0,
+    "chunk_id": 52,
+    "text": "If you guys did it, please try the code so we can finalize your results.",
+    "context": "I could show you the account we just needed to answer. we just need it to authorize the reverse one. Please provide the If you guys did it, please try the code so we can finalize your results.",
+    "scam_probability": 0.027333824603817006,
+    "classification_time": 0.007926464080810547,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 79.5,
+    "chunk_id": 53,
+    "text": "code so we can finalize your reason.",
+    "context": "we just need it to authorize the reverse one. Please provide the If you guys did it, please try the code so we can finalize your results. code so we can finalize your reason.",
+    "scam_probability": 0.006771689798684342,
+    "classification_time": 0.008352518081665039,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 81.0,
+    "chunk_id": 54,
+    "text": "Okay.",
+    "context": "If you guys did it, please try the code so we can finalize your results. code so we can finalize your reason. Okay.",
+    "scam_probability": 0.005644452231219053,
+    "classification_time": 0.0039136409759521484,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 82.5,
+    "chunk_id": 55,
+    "text": "Okay, the chord is...",
+    "context": "code so we can finalize your reason. Okay. Okay, the chord is...",
+    "scam_probability": 0.0008216241139988136,
+    "classification_time": 0.006911516189575195,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 84.0,
+    "chunk_id": 56,
+    "text": "The Gord is 6.540.",
+    "context": "Okay. Okay, the chord is... The Gord is 6.540.",
+    "scam_probability": 0.0003087222843165672,
+    "classification_time": 0.013455390930175781,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 85.5,
+    "chunk_id": 57,
+    "text": "6, 5, 4, 3, 2, 1.",
+    "context": "Okay, the chord is... The Gord is 6.540. 6, 5, 4, 3, 2, 1.",
+    "scam_probability": 0.00011251908539483755,
+    "classification_time": 0.008020401000976562,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 87.0,
+    "chunk_id": 58,
+    "text": "Thank you.",
+    "context": "The Gord is 6.540. 6, 5, 4, 3, 2, 1. Thank you.",
+    "scam_probability": 0.0019181411902373965,
+    "classification_time": 0.01300501823425293,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 88.5,
+    "chunk_id": 59,
+    "text": "Thank you. The refund has a successful process.",
+    "context": "6, 5, 4, 3, 2, 1. Thank you. Thank you. The refund has a successful process.",
+    "scam_probability": 0.21663101971431184,
+    "classification_time": 0.0059986114501953125,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 90.0,
+    "chunk_id": 60,
+    "text": "one has a succesfully processed, which you receive an SMS car.",
+    "context": "Thank you. Thank you. The refund has a successful process. one has a succesfully processed, which you receive an SMS car.",
+    "scam_probability": 0.9254058595958446,
+    "classification_time": 0.00800466537475586,
+    "is_scam_alert": "True"
+  },
+  {
+    "timestamp": 91.5,
+    "chunk_id": 61,
+    "text": "which you receive an SMS confirmation shortly.",
+    "context": "Thank you. The refund has a successful process. one has a succesfully processed, which you receive an SMS car. which you receive an SMS confirmation shortly.",
+    "scam_probability": 0.8903997904004118,
+    "classification_time": 0.011819839477539062,
+    "is_scam_alert": "True"
+  },
+  {
+    "timestamp": 93.0,
+    "chunk_id": 62,
+    "text": "information shortly. If you have any concerns, feel free to.",
+    "context": "one has a succesfully processed, which you receive an SMS car. which you receive an SMS confirmation shortly. information shortly. If you have any concerns, feel free to.",
+    "scam_probability": 0.5613293786023497,
+    "classification_time": 0.009768247604370117,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 94.5,
+    "chunk_id": 63,
+    "text": "have any concerns feel free to call our official hall blind.",
+    "context": "which you receive an SMS confirmation shortly. information shortly. If you have any concerns, feel free to. have any concerns feel free to call our official hall blind.",
+    "scam_probability": 0.18239811176002813,
+    "classification_time": 0.007035255432128906,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 96.0,
+    "chunk_id": 64,
+    "text": "Call on social hissing.",
+    "context": "information shortly. If you have any concerns, feel free to. have any concerns feel free to call our official hall blind. Call on social hissing.",
+    "scam_probability": 0.03567026045420094,
+    "classification_time": 0.006999969482421875,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 97.5,
+    "chunk_id": 65,
+    "text": "that number 1uhl that story, sorry tr sister",
+    "context": "have any concerns feel free to call our official hall blind. Call on social hissing. that number 1uhl that story, sorry tr sister",
+    "scam_probability": 0.13751020694965296,
+    "classification_time": 0.0027801990509033203,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 99.0,
+    "chunk_id": 66,
+    "text": "\u6708 hara lathe. unexplained\">",
+    "context": "Call on social hissing. that number 1uhl that story, sorry tr sister \u6708 hara lathe. unexplained\">",
+    "scam_probability": 0.035187134712082554,
+    "classification_time": 0.0070705413818359375,
+    "is_scam_alert": "False"
+  },
+  {
+    "timestamp": 100.372125,
+    "chunk_id": 67,
+    "text": "How great this. Thank you.",
+    "context": "that number 1uhl that story, sorry tr sister \u6708 hara lathe. unexplained\"> How great this. Thank you.",
+    "scam_probability": 0.013728510570496122,
+    "classification_time": 0.006000041961669922,
+    "is_scam_alert": "False"
+  }
+]
