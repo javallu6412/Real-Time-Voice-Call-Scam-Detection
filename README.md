@@ -111,11 +111,11 @@ The system successfully identified scam-related conversational patterns with nea
 ### Output
 
 <p align="center">
-  <img src="assets/ss1.png" width="900"/>
+  <img src="assets/output1.png" width="900"/>
 </p>
 
 <p align="center">
-  <img src="assets/ss2.png" width="900"/>
+  <img src="assets/output2.png" width="900"/>
 </p>
 
 ### Email Alert
