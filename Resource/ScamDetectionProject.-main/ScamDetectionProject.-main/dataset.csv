@@ -1,0 +1,11 @@
+filepath,label
+new_samples\real\aug_1.wav,0
+new_samples\real\aug_2.wav,0
+new_samples\real\aug_3.wav,0
+new_samples\real\aug_4.wav,0
+new_samples\real\aug_5.wav,0
+new_samples\fake\aug_100.wav,1
+new_samples\fake\aug_96.wav,1
+new_samples\fake\aug_97.wav,1
+new_samples\fake\aug_98.wav,1
+new_samples\fake\aug_99.wav,1
