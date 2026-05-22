@@ -24,6 +24,8 @@ This project answers a different question than traditional spam filters:
 > Not *“Was this number suspicious?”*  
 > But *“Is this conversation behaving like a scam in real time?”*
 
+---
+
 ## What This Project Does
 
 This project is a real-time AI-powered voice scam detection system that:
