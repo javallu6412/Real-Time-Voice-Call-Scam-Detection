@@ -110,6 +110,8 @@ A context window of **3 consecutive chunks** is concatenated before embedding to
 
 ## Results
 
+The system successfully identified scam-related conversational patterns with near real-time processing and automated alert generation.
+
 ```text
 DETECTION SUMMARY
 ─────────────────────────────────────
@@ -126,8 +128,6 @@ Scam alert timestamps:
  90.0s  → 0.723
  91.5s  → 0.643
 ```
-
-The system successfully identified scam-related conversational patterns with near real-time processing and automated alert generation.
 
 ### Output
 
