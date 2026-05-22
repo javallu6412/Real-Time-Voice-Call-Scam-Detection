@@ -60,4 +60,4 @@ The architecture enables near real-time processing with low latency, making the 
 
 ## Architecture
 
-![Real-Time Scam Detection Architecture](asset/architecture.png)
+![Real-Time Scam Detection Architecture](assets/architecture.png)
