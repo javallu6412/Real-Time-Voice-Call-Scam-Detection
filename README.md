@@ -109,3 +109,21 @@ Scam alert timestamps:
 The system successfully identified scam-related conversational patterns with a maximum confidence score of **72.3%** while maintaining low-latency near real-time processing.
 
 Automated email alerts containing the detection summary, timestamps, and confidence scores were generated immediately after scam detection.
+
+## Output Screenshots
+
+<p align="center">
+  <img src="assets/ss1.png" width="900"/>
+</p>
+
+<p align="center">
+  <img src="assets/ss2.png" width="900"/>
+</p>
+
+---
+
+## Email Alert
+
+<p align="center">
+  <img src="assets/ss3.png" width="900"/>
+</p>
