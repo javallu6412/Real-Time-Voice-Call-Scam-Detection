@@ -61,3 +61,28 @@ The architecture enables near real-time processing with low latency, making the 
 ## Architecture
 
 ![Real-Time Scam Detection Architecture](assets/architecture.png)
+
+## Models Used
+
+| Component | Model | Purpose |
+|---|---|---|
+| Speech Recognition | OpenAI Whisper (tiny) | Audio → Text transcription |
+| Text Embedding | DistilBERT (Hugging Face) | 768-dimensional semantic embeddings |
+| Classifier | Logistic Regression | Scam / Not-Scam prediction |
+
+DistilBERT retains approximately **97% of BERT's performance** with **40% fewer parameters**, enabling faster inference and near real-time processing.
+
+A context window of **3 consecutive chunks** is concatenated before embedding to capture multi-sentence scam patterns and conversational context.
+
+---
+
+## Features
+
+-  Real-time simulation with overlapping 3-second audio windows
+-  Configurable alert threshold (default: `0.6` confidence)
+-  Automated email alerts with complete detection summary
+-  Full transcript output with per-chunk scam probabilities
+-  Supports CPU and CUDA GPU execution
+-  Supports `.wav`, `.mp3`, and `.flac` audio formats
+-  Multithreaded pipeline for low-latency processing
+-  Real-time scam probability monitoring and alert generation
