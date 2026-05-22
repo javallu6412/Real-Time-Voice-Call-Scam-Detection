@@ -88,9 +88,13 @@ A context window of **3 consecutive chunks** is concatenated before embedding to
 |---|---|
 | Programming Language | Python |
 | Speech Recognition | OpenAI Whisper |
-| Natural Language Processing | DistilBERT (Hugging Face Transformers) |
-| Machine Learning | Logistic Regression (Scikit-learn) |
+| Natural Language Processing | DistilBERT |
+| Machine Learning | Logistic Regression |
 | Deep Learning Framework | PyTorch |
+| Audio Processing | Librosa |
+| Model Serialization | Joblib |
+| Multithreading | Python Threading & Queue |
+| Email Notifications | SMTP (smtplib) |
 | Development Environment | VS Code |
 
 ---
