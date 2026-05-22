@@ -10,5 +10,5 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
 
-> ### 7th Semester NLP Course Project — VIT Chennai, November 2025  
+> ### NLP Project — VIT Chennai, November 2025  
 > **Adithya Ajikumar • Joseph Alex Valluvassery • S Saran**
