@@ -149,17 +149,6 @@ python realtime_scam_detector.py \
 
 ---
 
-## 📦 Requirements
-
-```text
-openai-whisper
-transformers
-torch
-librosa
-scikit-learn
-joblib
-```
-
 ## Conclusion
 
 The Real-Time Voice Call Scam Detection System demonstrates how speech recognition, natural language processing, and machine learning can be combined to identify scam-related conversations in near real time.
