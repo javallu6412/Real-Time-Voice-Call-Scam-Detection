@@ -87,7 +87,7 @@ A context window of **3 consecutive chunks** is concatenated before embedding to
 -  Multithreaded pipeline for low-latency processing
 -  Real-time scam probability monitoring and alert generation
 
-## Sample Results
+## Results
 
 ```text
 DETECTION SUMMARY
@@ -106,23 +106,19 @@ Scam alert timestamps:
  91.5s  → 0.643
 ```
 
-The system successfully identified scam-related conversational patterns with a maximum confidence score of **72.3%** while maintaining low-latency near real-time processing.
+The system successfully identified scam-related conversational patterns with near real-time processing and automated alert generation.
 
-Automated email alerts containing the detection summary, timestamps, and confidence scores were generated immediately after scam detection.
-
-## Output Screenshots
+### Output
 
 <p align="center">
-  <img src="assets/output1.png" width="900"/>
+  <img src="assets/ss1.png" width="900"/>
 </p>
 
 <p align="center">
-  <img src="assets/output2.png" width="900"/>
+  <img src="assets/ss2.png" width="900"/>
 </p>
 
----
-
-## Email Alert
+### Email Alert
 
 <p align="center">
   <img src="assets/email_alert.png" width="900"/>
