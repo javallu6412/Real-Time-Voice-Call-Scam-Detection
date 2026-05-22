@@ -57,3 +57,7 @@ The system runs on a multithreaded architecture with three parallel threads:
 - **Classification Thread** — Generates DistilBERT embeddings and classifies scam probability using Logistic Regression
 
 The architecture enables near real-time processing with low latency, making the system suitable for intelligent fraud monitoring and voice-based cybersecurity applications.
+
+## Architecture
+
+![Real-Time Scam Detection Architecture](assets/architecture.png)
