@@ -175,7 +175,7 @@ The project highlights the potential of AI-driven cybersecurity systems in prote
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Adithya Ajikumar**
 - **Joseph Alex Valluvassery**
