@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Model files
+models/*.pt
+models/*.pth
+models/*.joblib
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+
+# Output files
+results/
+*.json
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
