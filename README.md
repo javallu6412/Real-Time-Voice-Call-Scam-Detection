@@ -123,3 +123,75 @@ The system successfully identified scam-related conversational patterns with nea
 <p align="center">
   <img src="assets/email_alert.png" width="900"/>
 </p>
+
+## Usage
+
+```bash
+python realtime_scam_detector.py \
+  --audio scam_call.wav \
+  --model_dir models \
+  --whisper_size tiny \
+  --alert_threshold 0.6
+```
+
+### Key Arguments
+
+| Argument | Default | Description |
+|---|---|---|
+| `--audio` | required | Path to audio file |
+| `--model_dir` | `models` | Directory containing trained models |
+| `--whisper_size` | `tiny` | Whisper model size (`tiny/base/small/medium/large`) |
+| `--chunk_duration` | `3.0` | Audio chunk duration in seconds |
+| `--hop_duration` | `1.5` | Step between chunks (50% overlap) |
+| `--alert_threshold` | `0.6` | Scam probability threshold for alerts |
+| `--no_realtime_simulation` | off | Process chunks instantly without delay |
+| `--save_results` | — | Save detection output to JSON file |
+
+---
+
+## 📦 Requirements
+
+```text
+openai-whisper
+transformers
+torch
+librosa
+scikit-learn
+joblib
+```
+
+## Conclusion
+
+The Real-Time Voice Call Scam Detection System demonstrates how speech recognition, natural language processing, and machine learning can be combined to identify scam-related conversations in near real time.
+
+By integrating Whisper for speech-to-text transcription, DistilBERT for contextual semantic embedding, and Logistic Regression for classification, the system efficiently processes streaming audio and detects suspicious conversational patterns with low latency.
+
+The multithreaded pipeline architecture enables continuous audio ingestion, transcription, and classification simultaneously, making the solution scalable and practical for real-world fraud monitoring applications.
+
+The project highlights the potential of AI-driven cybersecurity systems in protecting users from voice-based social engineering attacks, fraudulent calls, and conversational scams.
+
+---
+
+## Future Scope
+
+- Live microphone and telephony stream integration
+- Replace Logistic Regression with fine-tuned BERT or RoBERTa classifiers
+- Multilingual support using Whisper’s built-in language capabilities
+- Noise reduction and emotion/tone analysis modules
+- Real-time visualization and monitoring dashboard
+- Integration with banking and call-center fraud prevention systems
+- Edge/mobile deployment for on-device low-latency detection
+- Larger and more diverse scam-call training datasets
+- Enhanced explainability using attention visualization techniques
+
+---
+
+## 👥 Authors
+
+- **Adithya Ajikumar**
+- **Joseph Alex Valluvassery**
+- **S Saran**
+
+**School of Electronics Engineering**  
+Vellore Institute of Technology, Chennai  
+November 2025
