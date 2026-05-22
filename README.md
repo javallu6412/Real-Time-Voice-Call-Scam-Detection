@@ -76,6 +76,16 @@ A context window of **3 consecutive chunks** is concatenated before embedding to
 
 ---
 
+##  Technologies Used
+
+| Category | Technologies |
+|---|---|
+| Programming Language | Python |
+| Speech Recognition | OpenAI Whisper |
+| Natural Language Processing | DistilBERT (Hugging Face Transformers) |
+| Machine Learning | Logistic Regression (Scikit-learn) |
+| Deep Learning Framework | PyTorch |
+
 ## Features
 
 -  Real-time simulation with overlapping 3-second audio windows
