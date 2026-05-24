@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-> ### NLP Project — VIT Chennai, November 2025  
+> ### Natural Language Processing — VIT Chennai, November 2025  
 > **Adithya Ajikumar • Joseph Alex Valluvassery • S Saran**
 
 ## The Problem
